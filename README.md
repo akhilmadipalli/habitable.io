@@ -27,10 +27,8 @@ We welcome contributions from the community to help make this resource even more
 - Make your changes and improvements.
 - Submit a pull request, detailing the changes you've made.
 
-Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details on how to contribute.
-
 ## Contact
-If you have any questions, feedback, or suggestions, please feel free to reach out to us. You can contact our team at 
+If you have any questions, feedback, or suggestions, please feel free to reach out to us. You can contact our team at: 
 - [akhimadi@vt.edu](mailto:akhimadi@vt.edu)
 - [jinn@vt.edu](mailto:jinn@vt.edu)
 - [jsimpk166@vt.edu](mailto:jsimpk166@vt.edu)
