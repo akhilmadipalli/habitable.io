@@ -5,15 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{city}}</title>
     <style>
-    body {
-        background-color: #292929;
-    }
-    h1 {
-        color: #D9D9D9;
-    }
+        body {
+            background-color: #292929;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: row;
+        }
+        .map-container {
+            flex: 1; /* This makes the map container take up half of the screen width */
+            height: 100vh; /* Adjust the height as needed */
+        }
+
+        .info-container {
+            flex: 1; /* This makes the info container take up half of the screen width */
+            overflow-y: auto; /* Enables vertical scrolling if the content overflows */
+            padding: 20px; /* Add padding for spacing */
+        }
+        .info-container h1 {
+            font-size: 24px; /* Adjust the font size */
+            color: #d9d9d9; /* Adjust the text color */
+        }
     </style>
 </head>
 <body>
-    <h1>{{city}}</h1>
+    <div class="map-container">
+        <iframe
+            width="450"
+            height="100%"
+            frameborder="0" style="border:0"
+            referrerpolicy="no-referrer-when-downgrade"
+            src="https://www.google.com/maps/embed/v1/view?key=AIzaSyD7HVhBDtIOaI_1d80E-Oltg_lr5uy45to&center={{lat}},{{lon}}&zoom=15"
+            allowfullscreen>
+        </iframe>
+    </div>
+    <div class="info-container">
+        <h1>{{city}}</h1>
+    </div>
 </body>
 </html>

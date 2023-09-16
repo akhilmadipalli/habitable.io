@@ -5,7 +5,7 @@ from geopy import Nominatim
 from dataclasses import dataclass
 
 load_dotenv()
-api_key = os.getenv("API_KEY")
+api_key = os.getenv("API_KEY1")
 
 
 @dataclass
@@ -21,7 +21,7 @@ def get_lat_lon(city_name):
     city = geolocator.geocode(city_name)
     lat = city.latitude
     lon = city.longitude
-    return lat, lon
+    return (lat, lon)
 
 
 def get_current_weather(lat, lon, API_key):
