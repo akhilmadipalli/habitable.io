@@ -31,9 +31,9 @@ Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details 
 
 ## Contact
 If you have any questions, feedback, or suggestions, please feel free to reach out to us. You can contact our team at 
-[akhimadi@vt.edu](mailto:akhimadi@vt.edu)
-[jinn@vt.edu](mailto:jinn@vt.edu)
-[jsimpk166@vt.edu](mailto:jsimpk166@vt.edu)
-[charlescates@vt.edu](mailto:charlescates@vt.edu)
+- [akhimadi@vt.edu](mailto:akhimadi@vt.edu)
+- [jinn@vt.edu](mailto:jinn@vt.edu)
+- [jsimpk166@vt.edu](mailto:jsimpk166@vt.edu)
+- [charlescates@vt.edu](mailto:charlescates@vt.edu)
 
 Thank you for using habitable.io. We hope you find it helpful in your city exploration journey!
