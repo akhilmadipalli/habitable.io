@@ -1,6 +1,6 @@
 # habitable.io
 
-Welcome to the habitable.io, your go-to resource for valuable information on cities worldwide. Whether you're planning a move, a vacation, or just curious about different places, this website has you covered. Below, you'll find important details about this platform.
+Welcome to the **habitable.io**, your go-to resource for valuable information on cities worldwide. Whether you're planning a move, a vacation, or just curious about different places, this website has you covered. Below, you'll find important details about this platform.
 
 ## Table of Contents
 1. [About](#about)
@@ -10,7 +10,7 @@ Welcome to the habitable.io, your go-to resource for valuable information on cit
 5. [Contact](#contact)
 
 ## About
-habitable.io is a user-friendly website designed to provide comprehensive information about cities around the world. Our goal is to empower individuals with the knowledge they need to make informed decisions about where to live, work, or explore.
+**habitable.io** is a user-friendly website designed to provide comprehensive information about cities around the world. Our goal is to empower individuals with the knowledge they need to make informed decisions about where to live, work, or explore.
 
 ## Features
 - **City Profiles**: Detailed profiles for cities, including population, climate, cost of living, and more.
@@ -34,4 +34,4 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 - [jsimpk166@vt.edu](mailto:jsimpk166@vt.edu)
 - [charlescates@vt.edu](mailto:charlescates@vt.edu)
 
-Thank you for using habitable.io. We hope you find it helpful in your city exploration journey!
+Thank you for using **habitable.io**. We hope you find it helpful in your city exploration journey!
